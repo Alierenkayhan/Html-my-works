@@ -1,0 +1,32 @@
+.active{
+    background-color: red;
+}
+.navbar{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+.section{
+    height: 600px;
+    width: 100%;
+    margin-top: 56px;
+}
+.left{
+    background-image: url(contact.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.right{
+    float: right;
+    height: 100%;
+    width: 49%;
+}
+.kutu{
+    margin:20px;
+    width: 620px;
+    height: 560px;
+    border: 3px solid black;
+    border-radius: 30px;
+    box-shadow: 10px 15px black;
+}
