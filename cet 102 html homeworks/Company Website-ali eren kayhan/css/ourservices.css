@@ -1,0 +1,92 @@
+#header{
+    background-color: #1e2227;
+    width: 100%;    
+    height: 150px;
+    margin-left: 0;
+}
+
+#title{
+    font-family:'Algerian';
+    font-size: 100;
+    color: white;
+    text-align: center;
+}
+
+#menu{
+    width: 100%;
+    height: 60px;
+    margin-top: 1px;
+    position: relative;
+}
+
+.yatay-menu {
+   margin-top: 1px;
+   font-size: 25px;
+   font-style: oblique;
+   font-family: 'Adobe Devanagari'; 
+   padding: 0;
+   text-align: center;
+   list-style: none;
+}
+
+.yatay-menu li {
+    display: inline-block;
+    padding: 16px;  
+    margin:auto ;  
+}
+
+.yatay-menu li a {
+    text-decoration: none;
+    color:#1e2227;
+    padding: 18px;  
+}
+
+.yatay-menu li a:hover {
+    color:orangered;
+    border: 3px black solid;
+    border-radius: 10%;     
+    box-shadow: 0 8px 16px 0 #1e2227;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.yatay-menu li a.active {
+    background-color: red;
+    color:white;
+    border-radius: 10%; 
+}
+
+.section{
+    margin-top: 15px;
+    width: 100%;
+    height: 500px;
+}
+.top{
+    float: top;
+    height: 300px;
+    border:3px solid black;
+    background-color: red;
+}
+.works{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    list-style-type: none;
+}
+.works li{
+    border:2px black solid;
+    margin: 20px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    position: relative;
+}
+.resim{
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-bottom: 15px;
+}
+
