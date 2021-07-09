@@ -1,0 +1,93 @@
+	.header{
+	width:100%;
+	height:50;
+	padding:0;
+	}
+	
+	#section{
+	width:100%;
+	height:530;
+	margin-top: 10;
+	}
+
+	ul#yatay-menu {
+	list-style: none;
+	margin:0;
+	padding:0;
+	margin-left:40;
+	}
+	
+	ul#yatay-menu li {
+	display: inline-block;
+	padding: 0 5px;
+	margin:auto -1px;
+	}
+	
+	ul#yatay-menu li a {
+	color: white;
+	display: inline-block;	
+	height:  60spx;
+	line-height: 56px;
+	text-decoration: none;
+	padding: 0 10px;
+	font: bold 13 px 'Adobe Devanagari' ;
+	}
+	
+	ul#yatay-menu li a:hover{
+	color:#929cab;
+	}
+
+	#right{
+	width:333;
+	height:539;
+	margin-top: 10;
+	float:right;
+	}
+	
+	#left{
+	width:1000;
+	height:546;
+	margin-top: 10;
+	float:left;	
+	}
+
+
+	#paragraph{
+		padding: 1;
+        font-size: 20;
+        color:white;
+		
+    }
+    
+    #p1{
+        color:red;
+        text-align:center;
+		font-family:'Times New Roman'; 
+        
+    }
+	
+	#bresim{
+		
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
+
+	.tab1{
+		background-color: white;
+		font-family: 'Times New Roman';
+		position: relative;
+	}
+
+	.dp-Content{
+		color: white;
+		display:none;
+		position: absolute;
+		z-index: 1;
+		border: 3px solid white;
+		background-color: black;
+		opacity: 0.9;
+	}
+	
+	.dropdown:hover .dp-Content{
+		display: block;
+	}

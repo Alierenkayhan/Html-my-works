@@ -1,0 +1,259 @@
+
+	#header{
+        width:100%;
+        height:50;
+        padding:0;
+        }
+        
+        #section{
+        width:100%;
+        height:530;
+        margin-top: 10;
+        }
+    
+    
+        ul#yatay-menu {
+        list-style: none;
+        margin:0;
+        padding:0;
+        margin-left:40;
+        }
+        
+        ul#yatay-menu li {
+        display: inline-block;
+        padding: 0 5px;
+        margin:auto -1px;
+        }
+        
+        ul#yatay-menu li a {
+        color: white;
+        display: inline-block;	
+        height:  60spx;
+        line-height: 56px;
+        text-decoration: none;
+        padding: 0 10px;
+        font: bold 13 px 'Adobe Devanagari' ;
+        }
+        
+        ul#yatay-menu li a:hover{
+        color:#929cab;
+        }
+    
+        #right{
+        width:333;
+        height:539;
+        margin-top: 10;
+        float:right;
+        }
+        
+        #left{
+        width:1000;
+        height:546;
+        margin-top: 10;
+        float:left;	
+        }
+     
+         #sıralımenu{
+             font-size: 20 ;
+             font:bold ;
+             list-style-type: none;   
+         }
+
+         #sıralımenu li{
+            margin:20px;
+        
+        }
+
+         h2{
+             color: white;
+             text-align: center;
+         }
+
+
+         #progress-html { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-html:after {
+            content: 'Html :85%';
+            display: block;
+            background: #2196f3;
+            width: 85%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        
+        #progress-css { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-css:after {
+            content: 'CSS:85%';
+            display: block;
+            background: #2196f3;
+            width: 85%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        
+        #progress-addre { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-addre:after {
+            content: 'Adobe Dreamweaver:75%';
+            display: block;
+            background: #2196f3;
+            width: 75%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+
+        #progress-adf { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color:#f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-adf:after {
+            content: 'Adone Fireworks:65%';
+            display: block;
+            background: #2196f3;
+            width: 65%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+
+        #progress-c1 { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-c1:after {
+            content: 'C#:55%';
+            display: block;
+            background: #2196f3;
+            width: 55%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        #progress-c2 { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-c2:after {
+            content: 'C:75%';
+            display: block;
+            background: #2196f3;
+            width: 75%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        #progress-mop { 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-mop:after {
+            content: 'Microsoft Office Programs:85%';
+            display: block;
+            background: #2196f3;
+            width: 85%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        #progress-p{ 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-p:after {
+            content: 'Photoshop:85%';
+            display: block;
+            background: #2196f3;
+            width: 85%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        #progress-maı{ 
+            background: white;
+            border-radius: 13px;
+            height: 30px;
+            width: 500px;
+            padding: 3px;
+            color: #f1f1f1;
+            text-align: left;
+        }
+        
+        #progress-maı:after {
+            content: 'MIT App Inventor:75%';
+            display: block;
+            background: #2196f3;
+            width: 75%;
+            height: 100%;
+            border-radius: 9px;
+            padding: 0px 0px 0px 7px ;
+        }
+        .dp-Content{
+            display:none;
+            position: absolute;
+            z-index: 1;
+            border: 3px solid black;
+            background-color: #5569dc;
+            opacity: 0.9;
+        }
+        
+        .dropdown:hover .dp-Content{
+            display: block;
+        }
