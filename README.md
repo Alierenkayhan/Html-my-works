@@ -8,7 +8,6 @@
 [![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](	https://img.shields.io/github/license/Alierenkayhan/Html-my-works)
 
 This repository is for my CET 102 lesson's works. 
-These projects are my html, css and bootstrap works.
 
 
 ## Table of Contents
