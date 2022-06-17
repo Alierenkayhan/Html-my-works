@@ -42,9 +42,9 @@ These projects are my html, css and bootstrap works.
    2-Screenshots of Bootstrap 4 ali eren kayhan
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss1.jpg" alt="Bootstrap 4 ali eren kayhanss" width ="700" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss2.jpg" alt="Bootstrap 4 ali eren kayhanss" width ="700" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss3.jpg" alt="Bootstrap 4 ali eren kayhanss" width ="700" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss1.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss2.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss3.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
     </tr>
    </table>
  
