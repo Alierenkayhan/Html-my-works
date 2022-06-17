@@ -15,6 +15,7 @@ These projects are my html, css and bootstrap works.
 * [General Info](#Html-my-works)
 * [Technologies Used](#Technologies)
 * [Screenshots](#Screenshots)
+* [Setup](#Setup)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
 * [Reference](#Reference)
@@ -67,6 +68,11 @@ These projects are my html, css and bootstrap works.
     </tr>
    </table>
 
+
+## Setup
+  -Download the repository.<br/>
+  -Export the zip.<br/>
+  
 ## Lisans
 
 This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
