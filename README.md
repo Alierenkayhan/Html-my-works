@@ -1,11 +1,20 @@
 <img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/html.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
     
 # Html-my-works
-
+<div align="center">
+    
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](	https://img.shields.io/github/license/Alierenkayhan/Html-my-works)
+[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Html-my-works/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Html-my-works)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Html-my-works)
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Html-my-works?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Html-my-works)
+    
+</div>
+
 
 This repository is for my CET 102 lesson's works. 
 These projects are my html, css and bootstrap works.
