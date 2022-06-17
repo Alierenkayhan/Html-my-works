@@ -3,15 +3,17 @@
 # Html-my-works
 <div align="center">
     
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Html-my-works?style=social)   
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](https://github.com/Alierenkayhan/Html-my-works/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Html-my-works/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Html-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Html-my-works)
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Html-my-works?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Html-my-works)
+ 
+ 
     
 </div>
 
