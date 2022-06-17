@@ -71,7 +71,7 @@ These projects are my html, css and bootstrap works.
 
 ## Setup
   -Download the repository.<br/>
-  -Export the zip.<br/>
+  -Export it from zip.<br/>
   
 ## Lisans
 
