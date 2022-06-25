@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/html.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/html.png" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # Html-my-works
 <div align="center">
@@ -42,9 +42,9 @@ These projects are my html, css and bootstrap works.
   1-Screenshots of Ali Eren Kayhan Website Template
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess1.jpg" alt="Ali Eren Kayhan Website Template" width ="300" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess2.jpg" alt="Ali Eren Kayhan Website Template" width ="300" height = "300" /></p></td>
-        <td> <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess3.jpg" alt="Ali Eren Kayhan Website Template" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess1.jpg" alt="Ali Eren Kayhan Website Template" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess2.jpg" alt="Ali Eren Kayhan Website Template" width ="100%" height = "auto" /></p></td>
+        <td> <img align="left" src="screenshots/Ali Eren Kayhan Website Templatess/Ali Eren Kayhan Website Templatess3.jpg" alt="Ali Eren Kayhan Website Template" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
  
@@ -54,9 +54,9 @@ These projects are my html, css and bootstrap works.
    2-Screenshots of Bootstrap 4 ali eren kayhan
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss1.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss2.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss3.jpg" alt="Bootstrap 4 ali eren kayhan" width ="700" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss1.jpg" alt="Bootstrap 4 ali eren kayhan" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss2.jpg" alt="Bootstrap 4 ali eren kayhan" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Bootstrap 4 ali eren kayhanss/Bootstrap 4 ali eren kayhanss3.jpg" alt="Bootstrap 4 ali eren kayhan" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
  
@@ -64,8 +64,8 @@ These projects are my html, css and bootstrap works.
    3-Screenshots of Company Website-ali eren kayhan
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Company Website-ali eren kayhanss/Company Website-ali eren kayhanss1.jpg" alt="Company Website-ali eren kayhan" width ="300" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Company Website-ali eren kayhanss/Company Website-ali eren kayhanss2.jpg" alt="Company Website-ali eren kayhan" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Company Website-ali eren kayhanss/Company Website-ali eren kayhanss1.jpg" alt="Company Website-ali eren kayhan" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Company Website-ali eren kayhanss/Company Website-ali eren kayhanss2.jpg" alt="Company Website-ali eren kayhan" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
    
@@ -74,9 +74,9 @@ These projects are my html, css and bootstrap works.
    4-Screenshots of HTML CSS - Menu ali eren kayhan
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss1.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="300" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss2.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="300" height = "300" /></p></td>
-        <td> <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss3.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss1.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss2.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="100%" height = "auto" /></p></td>
+        <td> <img align="left" src="screenshots/HTML CSS - Menu ali eren kayhanss/HTML CSS - Menu ali eren kayhanss3.jpg" alt="HTML CSS - Menu ali eren kayhan" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
