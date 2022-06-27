@@ -3,15 +3,32 @@
 # Html-my-works
 <div align="center">
     
+ 
+
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Html-my-works?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](https://github.com/Alierenkayhan/Html-my-works/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Html-my-works)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/Html-my-works)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/Html-my-works)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/Html-my-works) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Html-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Html-my-works)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Html-my-works)](https://github.com/Alierenkayhan/Html-my-works/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Html-my-works/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Html-my-works/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/Html-my-works)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Html-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Html-my-works)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Html-my-works)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/Html-my-works) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Html-my-works/total)
+ <a href="https://github.com/Alierenkayhan/Html-my-works/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+  
  
  
     
